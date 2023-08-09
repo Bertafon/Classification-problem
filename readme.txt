@@ -1,0 +1,1 @@
+The purpose of this study is to prepare a model that most effectively predicts the results of the second round of the presidential election in Poland in 2020. The project compared kNN, SVM, Random Forest, XGBoost and their stacking.
